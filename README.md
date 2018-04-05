@@ -6,7 +6,8 @@ A major barrier in the shift to open science is that members of the open science
 
 ## Goals
 
-We’re excited about the potential to use this card deck as a way to ignite informal and interactive broader conversations about how scientists, academics, and practitioners are thinking about working open. With this game, we want to encourage more people to have face-to-face, candid discussions about both the challenges and advantages of working open. The goal of this project is to use this card deck at conferences, meetups, NGOs, universities, and research institutes to ignite new conversations.
+We’re excited about the potential to use this card deck as a way to ignite informal and interactive broader conversations about how scientists, academics, and practitioners are thinking about Open Science. With this game, we want to encourage more people to have face-to-face, candid discussions about both the challenges and advantages of Open Science.
+The goal of this project is to develop a card deck to be used at conferences, meetups, NGOs, universities, and research institutes to ignite new conversations.
 
 ## Opportunities to help
 
