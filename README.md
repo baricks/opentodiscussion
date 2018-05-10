@@ -11,4 +11,6 @@ The goal of this project is to develop a card deck to be used at conferences, me
 
 ## Opportunities to help
 
-Looking for help with: user testing, design, and localization (translation). For more information about participating in the 2018 Mozilla Global Sprint, see the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+Looking for help with: user testing, design, and localization (translation). 
+Designing customized card decks (for scientists from different fields).
+For more information about participating in the 2018 Mozilla Global Sprint, see the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
