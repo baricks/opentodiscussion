@@ -4,7 +4,7 @@ We have an intital set of statements: <br/>
 [Open Data](https://github.com/baricks/opentodiscussion/blob/master/OpenData) <br/>
 [Open Source](https://github.com/baricks/opentodiscussion/blob/master/OpenSource) <br/>
 [Open Collaboration](https://github.com/baricks/opentodiscussion/blob/master/OpenCollaboration) <br/>
-[Open Education] (https://github.com/baricks/opentodiscussion/blob/master/OpenEducation)<br/>
+[Open Education](https://github.com/baricks/opentodiscussion/blob/master/OpenEducation)<br/>
 We tried to make this first set of statements broad and will work on developping customized sets for scientists from different. We would like to hear feedback/suggestions about the suggested statements.
 <br/>
 We also need help for: <br/>
